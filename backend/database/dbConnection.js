@@ -12,4 +12,4 @@ import mongoose from "mongoose"; //just mongoose import!
     })
     
 }
-export default dbConnection;
+export default dbConnection;  
